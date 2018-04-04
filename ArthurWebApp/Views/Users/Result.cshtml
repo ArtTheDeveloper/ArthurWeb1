@@ -1,0 +1,68 @@
+﻿@model ArthurWebApp.Models.UserViewModel
+
+<h2>Results</h2>
+
+<div>
+    <h4>Github User</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Username)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Username)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+
+        <dt>
+            @Html.DisplayName("Avatar")
+        </dt>
+
+        <dd>
+            <img src="@Url.Content(Model.AvatarUrl)" alt="Image" />
+        </dd>
+    </dl>
+</div>
+
+@if (Model.Repos.Any())
+{
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Repos.First().Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Repos.First().Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Repos.First().StargazersCount)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model.Repos)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.StargazersCount)
+                </td>
+            </tr>
+        }
+
+    </table>
+
+}

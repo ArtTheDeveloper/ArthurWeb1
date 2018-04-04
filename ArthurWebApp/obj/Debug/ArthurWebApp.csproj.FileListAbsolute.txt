@@ -1,0 +1,186 @@
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\ApplicationInsights.config
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\ArthurWebApp.dll.config
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\ArthurWebApp.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\ArthurWebApp.pdb
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\csc.exe
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\csc.exe.config
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\csc.rsp
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\csi.exe
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\csi.exe.config
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\csi.rsp
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Console.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\vbc.exe
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\vbc.exe.config
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\vbc.rsp
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Antlr3.Runtime.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Newtonsoft.Json.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.Helpers.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.Mvc.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.Optimization.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.Razor.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\WebGrease.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.Helpers.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.Mvc.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.Optimization.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.Razor.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Newtonsoft.Json.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.csprojResolveAssemblyReference.cache
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.csproj.CoreCompileInputs.cache
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.csproj.CopyComplete
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.pdb
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\itosu\Documents\Visual Studio 2017\Projects\ArthurWebApp\ArthurWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\ApplicationInsights.config
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\ArthurWebApp.dll.config
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\ArthurWebApp.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\ArthurWebApp.pdb
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\csc.exe
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\csc.exe.config
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\csc.rsp
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\csi.exe
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\csi.exe.config
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\csi.rsp
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.AppContext.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Console.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\vbc.exe
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\vbc.exe.config
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\vbc.rsp
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Antlr3.Runtime.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.Web.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Newtonsoft.Json.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Net.Http.Formatting.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.Helpers.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.Mvc.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.Optimization.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.Razor.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\WebGrease.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Net.Http.Formatting.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.Helpers.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.Mvc.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.Optimization.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.Razor.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Antlr3.Runtime.pdb
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Newtonsoft.Json.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\bin\Microsoft.AI.Web.xml
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.csprojResolveAssemblyReference.cache
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.csproj.CoreCompileInputs.cache
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.csproj.CopyComplete
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.dll
+C:\Users\jacz\Downloads\ArthurWebApp\ArthurWebApp\obj\Debug\ArthurWebApp.pdb
